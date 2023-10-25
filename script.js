@@ -5,7 +5,7 @@ const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
 
-const birthDate ="8 september 2023";
+const birthDate ="8 september 2024";
 
 
 
